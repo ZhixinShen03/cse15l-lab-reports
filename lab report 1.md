@@ -34,15 +34,19 @@ ls command
 
   1. an example of using the command with no arguments.
 
-![Image](7.png)
+       ![Image](7.png)
 
 
      
   2. an exmaple of using the command with a path to a directory as an argument.
 
-     
-  3. an example of using the command with a path to a file as an argument.
+       ![Image](8.png)
 
+
+     
+  4. an example of using the command with a path to a file as an argument.
+
+       ![Image](9.png)
 
   
 
