@@ -36,11 +36,11 @@ ls command
 
        ![Image](7.png)
 
-     when ls command with no arguments is run, directory is /home
+     when ls command with no arguments is run, directory is /home.
 
-     it will shows all the directories when ls command with no argument.
+     it will shows all the directories and files, when ls command with no argument.
 
-     it is not error, it is successfully show out all directories
+     it is not error, it is successfully show out all directories and files.
 
      
   3. an exmaple of using the command with a path to a directory as an argument.
