@@ -47,7 +47,7 @@ ls command
 
        ![Image](8.png)
 
-     when ls command with a path to a directory as an argument, directory is 
+     when ls command with a path to a directory as an argument, directory is lecture1
 
      
 
