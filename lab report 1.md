@@ -34,6 +34,9 @@ ls command
 
   1. an example of using the command with no arguments.
 
+![Image](3.png)
+
+
      
   2. an exmaple of using the command with a path to a directory as an argument.
 
@@ -44,5 +47,4 @@ ls command
   
 
 
-![Image](2.png)
-![Image](3.png)
+
