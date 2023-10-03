@@ -34,7 +34,7 @@ ls command
 
   1. an example of using the command with no arguments.
 
-       ![Image](11.png)
+       ![Image](12.png)
 
      when ls command with no arguments is run, directory is root.
 
@@ -45,7 +45,7 @@ ls command
      
   3. an exmaple of using the command with a path to a directory as an argument.
 
-       ![Image](12.png)
+       ![Image](10.png)
 
      when ls command with a path to a directory as an argument, directory is lecture1
 
