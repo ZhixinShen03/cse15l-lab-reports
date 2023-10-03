@@ -70,14 +70,33 @@ cat command
 
      ![Image](13.png)
 
-     
-  2. an exmaple of using the command with a path to a directory as an argument.
+     when cat command with no arguments is run, directory is root.
+
+     cat command only read the parameters that in the file.
+
+     it is not error.
+
+
+  3. an exmaple of using the command with a path to a directory as an argument.
 
      ![Image](14.png)
 
+     when cat command with a path to a directory as an argument, directory is lecture1.
+
+     cat command can not read the directory.
+
+     it is not error.
+
      
-  3. an example of using the command with a path to a file as an argument.
+  5. an example of using the command with a path to a file as an argument.
 
      ![Image](15.png)
+
+     when cat command with a path to a file as an argument, directory is lecture1.
+
+     cat command read the parameters that in the file and output.
+
+     it is not error
+
 
 
