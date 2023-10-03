@@ -36,27 +36,36 @@ ls command
 
        ![Image](12.png)
 
-     when ls command with no arguments is run, directory is root.
+    when ls command with no arguments is run, directory is root.
 
-     it will shows all the directories and files, when ls command with no argument.
-
-     it is not error, it is successfully show out all directories and files.
+    when ls command with no argument, it will shows all the directories and files.
+  
+    it is not error, it is successfully show out all directories and a path to a directory as an argument.
 
      
-  3. an exmaple of using the command with a path to a directory as an argument.
+  2. an exmaple of using the command with a path to a directory as an argument.
 
        ![Image](10.png)
 
-     when ls command with a path to a directory as an argument, directory is lecture1
+     when ls command with a path to a directory as an argument, directory is lecture1.
+
+     when ls command with a path to a directory as an argument, it will shows all the file that in the directory.
+
+     it is not error, it is successfully show out all files.
 
      
-
-
-     
-  5. an example of using the command with a path to a file as an argument.
+  3. an example of using the command with a path to a file as an argument.
 
        ![Image](11.png)
 
+     when ls command with a path to a file as an argument, directory is lecture1.
+
+     ls command only show out the directory and files.
+
+     it is not error.
+
+
+cat command
   
 
 
