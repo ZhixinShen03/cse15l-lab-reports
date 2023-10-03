@@ -34,7 +34,7 @@ ls command
 
   1. an example of using the command with no arguments.
 
-![Image](3.png)
+![Image](7.png)
 
 
      
