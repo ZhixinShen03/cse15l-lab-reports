@@ -3,7 +3,7 @@ cd command
 
   ![Image](4.png)
 
-    when the cd command run, there has not any changing
+    when the cd command with no arguments is run, there has not any changing
   
     if cd comment with no argument, cd command can not do anything.
   
@@ -13,7 +13,7 @@ cd command
 
   ![Image](5.png)
 
-    when the cd command run, directory is change from home to lecture1.
+    when the cd command with a path to a directory as an argument is run, directory is change from home to lecture1.
   
     cd command is used to change to different directory. When it is no argument, cd can not do anything.
   
@@ -24,7 +24,7 @@ cd command
 
   ![Image](6.png)
 
-    when the cd command run, directory is working on the message.
+    when the cd command with a path to a file as an argument is run, directory is working on the message.
     
     the output is shows error, because the cd command can not use on file.
     
@@ -36,15 +36,24 @@ ls command
 
        ![Image](7.png)
 
+     when ls command with no arguments is run, directory is /home
+
+     it will shows all the directories when ls command with no argument.
+
+     it is not error, it is successfully show out all directories
 
      
-  2. an exmaple of using the command with a path to a directory as an argument.
+  3. an exmaple of using the command with a path to a directory as an argument.
 
        ![Image](8.png)
 
+     when ls command with a path to a directory as an argument, directory is 
 
      
-  4. an example of using the command with a path to a file as an argument.
+
+
+     
+  5. an example of using the command with a path to a file as an argument.
 
        ![Image](9.png)
 
