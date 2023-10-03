@@ -34,9 +34,9 @@ ls command
 
   1. an example of using the command with no arguments.
 
-       ![Image](7.png)
+       ![Image](11.png)
 
-     when ls command with no arguments is run, directory is /home.
+     when ls command with no arguments is run, directory is root.
 
      it will shows all the directories and files, when ls command with no argument.
 
@@ -45,7 +45,7 @@ ls command
      
   3. an exmaple of using the command with a path to a directory as an argument.
 
-       ![Image](8.png)
+       ![Image](12.png)
 
      when ls command with a path to a directory as an argument, directory is lecture1
 
@@ -55,7 +55,7 @@ ls command
      
   5. an example of using the command with a path to a file as an argument.
 
-       ![Image](9.png)
+       ![Image](11.png)
 
   
 
