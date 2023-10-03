@@ -64,9 +64,20 @@ ls command
 
      it is not error.
 
-
 cat command
-  
 
+  1. an example of using the command with no arguments.
+
+     ![Image](13.png)
+
+     
+  2. an exmaple of using the command with a path to a directory as an argument.
+
+     ![Image](14.png)
+
+     
+  3. an example of using the command with a path to a file as an argument.
+
+     ![Image](15.png)
 
 
