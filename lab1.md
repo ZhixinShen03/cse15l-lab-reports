@@ -70,7 +70,7 @@ cat command
 
      ![Image](13.png)
 
-     when cat command with no arguments is run, directory is root.
+     when cat command with no arguments is run, directory is home.
 
      cat command only read the parameters that in the file.
 
