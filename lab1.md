@@ -45,24 +45,24 @@ ls command
      
   2. an exmaple of using the command with a path to a directory as an argument.
 
-       ![Image](10.png)
+     ![Image](10.png)
 
-     when ls command with a path to a directory as an argument, directory is lecture1.
+       when ls command with a path to a directory as an argument, directory is lecture1.
 
-     when ls command with a path to a directory as an argument, it will shows all the file that in the directory.
+       when ls command with a path to a directory as an argument, it will shows all the file that in the directory.
 
-     it is not error, it is successfully show out all files.
+       it is not error, it is successfully show out all files.
 
      
   3. an example of using the command with a path to a file as an argument.
 
-       ![Image](11.png)
+     ![Image](11.png)
 
-     when ls command with a path to a file as an argument, directory is lecture1.
+       when ls command with a path to a file as an argument, directory is lecture1.
 
-     ls command only show out the directory and files.
+       ls command only show out the directory and files.
 
-     it is not error.
+       it is not error.
 
 cat command
 
@@ -70,33 +70,33 @@ cat command
 
      ![Image](13.png)
 
-     when cat command with no arguments is run, directory is home.
+       when cat command with no arguments is run, directory is home.
 
-     cat command only read the parameters that in the file.
+       cat command only read the parameters that in the file.
+  
+       it is not error.
 
-     it is not error.
 
+  2. an exmaple of using the command with a path to a directory as an argument.
 
-  3. an exmaple of using the command with a path to a directory as an argument.
+     ![Image](18.png)
 
-     ![Image](14.png)
+       when cat command with a path to a directory as an argument, directory is lecture1.
 
-     when cat command with a path to a directory as an argument, directory is lecture1.
+       cat command can not read directory, this command only read files.
 
-     cat command can not read the directory.
-
-     it is not error.
+       it is not error.
 
      
-  5. an example of using the command with a path to a file as an argument.
+  3. an example of using the command with a path to a file as an argument.
 
      ![Image](15.png)
 
-     when cat command with a path to a file as an argument, directory is lecture1.
+       when cat command with a path to a file as an argument, directory is lecture1.
 
-     cat command read the parameters that in the file and output.
+       cat command read the parameters that in the file and output.
 
-     it is not error
+       it is not error
 
 
 
