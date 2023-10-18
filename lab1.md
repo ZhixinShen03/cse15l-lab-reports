@@ -3,7 +3,7 @@ cd command
 
   ![Image](16.png)
 
-    when the cd command with no arguments is run, there has not any changing
+    when the cd command with no arguments is run, there has not any changing, the directory is root.
   
     if cd comment with no argument, cd command can not do anything.
   
