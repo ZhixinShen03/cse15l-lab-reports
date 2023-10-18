@@ -1,7 +1,7 @@
 cd command
 1. an example of using the command with no arguments.
 
-  ![Image](4.png)
+  ![Image](16.png)
 
     when the cd command with no arguments is run, there has not any changing
   
