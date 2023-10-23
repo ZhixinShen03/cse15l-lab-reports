@@ -11,3 +11,6 @@ for a request to /add-message?s=How are you, the handleRequest method is called 
 Part 2:
 ![Image](lab2-4.png)
 ![Image](lab2-5.png)
+
+Part 3:
+this my firt time to engagement with Java, server operations, and SSH, I understanding of advanced Java features, network security principles, and server management.  
