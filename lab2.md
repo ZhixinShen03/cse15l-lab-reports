@@ -14,4 +14,4 @@ Part 2:
 ![Image](lab2-5.png)
 
 Part 3:
-this my firt time to engagement with Java, server operations, and SSH, I understanding of advanced Java features, network security principles, and server management.  
+this my firt time to engagement with Java server operations and SSH, Before this, I was learning how to edit code and did not learn any knowledge about termianl. In the past few weeks, I have learned how to use terminal to get what I want，to create a url and to edit the website, I understanding of advanced Java features, network security principles, and server management.  
