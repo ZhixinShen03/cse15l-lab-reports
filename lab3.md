@@ -19,3 +19,4 @@ The symptom:
 
 ![Image](lab3-3.png)
 
+before:
