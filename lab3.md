@@ -20,3 +20,11 @@ The symptom:
 ![Image](lab3-3.png)
 
 before:
+
+![Image](lab3-4.png)
+
+after:
+
+![Image](lab3-5.png)
+
+
