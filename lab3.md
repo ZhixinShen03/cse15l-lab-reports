@@ -10,5 +10,12 @@ A failure-inducing input for the buggy program：
 
 
 
-An input that doesn’t induce a failure
+An input that doesn’t induce a failure:
+
+![Image](lab3-2.png)
+
+
+The symptom:
+
+![Image](lab3-3.png)
 
