@@ -41,6 +41,19 @@ grep -r -l:
 ![Image](lab3-7.png)
 This command recursively searches for the word "deprecated" in all files within the ./technical directory.
 
+grep -i:
+![Image](lab3redo_2.png)
+![Image](lab3redo_2.png)
+The -i tells grep to perform a case-insensitive search. This means that grep will not differentiate between uppercase and lowercase letters when searching for the pattern.
+
+
+
+
+
+
+
+
+
 
 
 
