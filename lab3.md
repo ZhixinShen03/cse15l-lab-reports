@@ -57,6 +57,13 @@ grep -c:
 
 The -c tells grep to count the number of lines that match the given pattern in each file, rather than printing the lines themselves.
 
+grep -n:
+![Image](lab3redo_6.png)
+![Image](lab3redo_7.png)
+
+The -n tells grep to print the line number before each matching line. This is particularly useful when we need to know where in a file a particular string is found.
+
+
 
 
 
