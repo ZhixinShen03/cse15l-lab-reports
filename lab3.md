@@ -17,6 +17,8 @@ An input that doesn’t induce a failure:
 
 The symptom:
 
+![Image](lab3redo_1.png)
+
 ![Image](lab3-3.png)
 
 before:
