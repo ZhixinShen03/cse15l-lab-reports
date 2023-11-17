@@ -58,6 +58,7 @@ grep -c:
 The -c tells grep to count the number of lines that match the given pattern in each file, rather than printing the lines themselves.
 
 grep -n:
+
 ![Image](lab3redo_6.png)
 ![Image](lab3redo_7.png)
 
