@@ -43,8 +43,14 @@ This command recursively searches for the word "deprecated" in all files within 
 
 grep -i:
 ![Image](lab3redo_2.png)
-![Image](lab3redo_2.png)
+![Image](lab3redo_3.png)
 The -i tells grep to perform a case-insensitive search. This means that grep will not differentiate between uppercase and lowercase letters when searching for the pattern.
+
+grep -c:
+![Image](lab3redo_4.png)
+![Image](lab3redo_5.png)
+The -c tells grep to count the number of lines that match the given pattern in each file, rather than printing the lines themselves.
+
 
 
 
