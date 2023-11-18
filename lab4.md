@@ -4,7 +4,7 @@ step1: Log into ieng6
 
 Log in to the ieng6.ucsd.edu (I still use password because I can not set up my SSH KEY, I do not know why)
 
-here is my SSH KEY set up:
+here is my SSH KEY set up(the password is same, but it always show Permission denied, please try again.): 
 ![Image](lab4-9.png)
 
 
