@@ -24,7 +24,7 @@ step4: Edit the code file ListExamples.java to fix the failing test
 
 ![Image](lab4-5.png)
 
-change index1 to index2, then Press ctrl + x to exit the file reading, then press Y and enter to save the file.
+use nano command to enter file, then change index1 to index2. Press ctrl + x to exit the file reading, then press Y and enter to save the file.
 
 step5: Run the tests, demonstrating that they now succeed
 
