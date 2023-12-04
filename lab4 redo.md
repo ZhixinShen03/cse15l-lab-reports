@@ -1,4 +1,4 @@
-step1: Log into ieng6
+## step1: Log into ieng6
 
 ![Image](lab4redo-1.png.png)
 
