@@ -11,4 +11,4 @@ In the second half of this quarter, I have learned how to use the grep command, 
 
 Vim has also proven to be invaluable. I can utilize the Vim command to locate specific files from a vast number of Java files, view them, and make modifications directly in the terminal. Prior to this, I had never used Vim in such a manner . Following these labs, I have gained some proficiency in using Vim to modify my code.
 
-Additionally, in this class, I learned effective team task management. When dealing with numerous files, I can now make code modifications, save the changes, and upload the code, allowing others to easily review my modifications. This skill has proven to be extremely useful.
+Additionally, in this class, I learned effective team task management. When dealing with numerous files, I can debug the code, I can now make code modifications, save the changes, and upload the code, allowing others to easily review my modifications. This skill has proven to be extremely useful.
