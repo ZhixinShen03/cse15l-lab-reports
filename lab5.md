@@ -13,7 +13,24 @@ To better understand the issue, could you try running the bash script independen
 
 Student:
 I followed your suggestion and ran the script with a hardcoded name. The script still didn't find the correct file, indicating that the problem lies within the bash script itself. Here's the output I received.
+
 ![Image](lab5-2.png)
+
+TA:
+we are narrowing down the issue to the bash script. Now, let's focus on the `script.sh`. The script is supposed to check for the existence of a `.txt` file for each name in the `data` directory, but it seems to be failing in this task.
+
+Student:
+
+Thank you for the guidance. The issue was successfully resolved by correcting the file path in the bash script.
+
+before fixing the bug:
+![Image](lab5-4.png)
+
+after fixing the bug:
+![Image](lab5-5.png)
+
+Main.java:
+![Image](lab5-3.png)
 
 
 ## Part 2 – Reflection
