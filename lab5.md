@@ -6,6 +6,7 @@
 Student:
 Hello,
 I'm currently working on a Java program that's supposed to read a list of names from 'names.txt' and pass each name to a bash script ('script.sh'). This script should check if a corresponding '.txt' file exists for each name in the 'data' directory. However, I'm encountering unexpected behavior where the script isn't listing files correctly. I suspect the issue might be in the way arguments are passed from Java to the bash script or in the script itself.
+![Image](lab5-1.png)
 
 
 
