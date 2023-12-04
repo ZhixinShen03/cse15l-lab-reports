@@ -8,7 +8,7 @@ here is my SSH KEY set up(the password is same, but it always show Permission de
 ![Image](lab4-9.png)
 
 
-step2: Clone your fork of the repository from your Github account (using the SSH URL)
+### step2: Clone your fork of the repository from your Github account (using the SSH URL)
 
 ![Image](lab4redo-2.png.png)
 
