@@ -23,11 +23,19 @@ Student:
 
 Thank you for the guidance. The issue was successfully resolved by correcting the file path in the bash script.
 
+
+
 before fixing the bug:
 ![Image](lab5-4.png)
 
+
+
+
 after fixing the bug:
 ![Image](lab5-5.png)
+
+
+
 
 Main.java:
 ![Image](lab5-3.png)
