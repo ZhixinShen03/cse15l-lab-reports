@@ -6,7 +6,7 @@
 ![Image](lab4redo-1.png.png)
 
 
-SSH cs15lfa23gv@ieng6.ucsd.edu ## enter
+SSH cs15lfa23gv@ieng6.ucsd.edu <enter>
 
 use SSH command to Log in to the ieng6.ucsd.edu (I still use password because I can not set up my SSH KEY, I do not know why)
 
