@@ -41,6 +41,12 @@ Main.java:
 ![Image](lab5-3.png)
 
 
+description of what to edit to fix the bug:
+
+This edit corrects the file path in the "if" condition to include the ".txt" extension, ensuring that the script checks for the existence of a text file that matches each name passed to it from the Java program.
+
+
+
 ## Part 2 – Reflection
 
 In the second half of this quarter, I have learned how to use the grep command, which has transformed the way I handle large sets of data. The grep command is highly useful for efficiently searching and extracting specific text patterns from files in my lab. With it, I can quickly find the file I need.
